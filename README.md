@@ -9,24 +9,6 @@
 
 <br>
 
-## Minhas estatísticas
-
-<div>
-  <a href="https://github.com/milenaalcantara">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=milenaalcantara&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenaalcantara&layout=compact&theme=omni"/>
-  <div style="display: inline_block">
-      <br>
-      <img align="right" alt="mi" height="120em" src="https://media.giphy.com/media/FNXWVL2JzYN49eRr0z/giphy.gif">
-   </div> 
-</div>
-
-## Minhas contribuições
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=milenaalcantara&theme=omni&hide_border=falso)](https://git.io/streak-stats)]
-
-<br>
-
 ## Concete-se comigo
 
 > [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milimaalc/)
