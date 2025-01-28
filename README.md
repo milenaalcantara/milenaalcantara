@@ -2,9 +2,9 @@
 <h3>Desenvolvedora Web e Mobile 👩🏻‍💻</h3>
 
 - 🔭 Atualmente atuo como Desenvolvedora Frontend
-- 🎓 Estou cursando Bacharelado em Ciência da Computação (7/8)
+- 🎓 Graduanda em Ciência da Computação (7/8)
 - 🎒 Alumni do Apple Developer Academy
-- 💻 Sou especialista em desenvolvimento iOS
+- 💻 Especialista em desenvolvimento iOS
 - 👩 Meus pronomes: Ela/Dela
 
 <br>
