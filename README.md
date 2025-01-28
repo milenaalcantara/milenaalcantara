@@ -1,13 +1,14 @@
 <h1>Olá, sou a Milena Alcântara 🌸</h1>
-<h3>Desenvolvedora Web e Mobile 👩🏻‍💻</h3>
 
-- 🔭 Atualmente atuo como Desenvolvedora Frontend
+- 💻 Desenvolvedora iOS e Front-end web
 - 🎓 Graduanda em Ciência da Computação (7/8)
 - 🎒 Alumni do Apple Developer Academy
-- 💻 Especialista em desenvolvimento iOS
 - 👩 Meus pronomes: Ela/Dela
 
 <br>
+
+[![Milena's GitHub stats](https://github-readme-stats.vercel.app/api?username=milenaalcantara&count_private=true&show_icons=true&&hide=stars&title_color=F7F7F7&text_color=4E4E54&icon_color=F7F7F7&bg_color=000000)](https://github.com/milenaalcantara/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milenaalcantara&layout=compact&title_color=F7F7F7&text_color=F7F7F7&icon_color=F7F7F7&bg_color=000000)](https://github.com/milenaalcantara)
 
 ## Concete-se comigo
 
