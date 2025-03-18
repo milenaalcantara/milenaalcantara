@@ -1,9 +1,10 @@
 <h1>Olá, sou a Milena Alcântara 🌸</h1>
 
-- 💻 Desenvolvedora iOS e Front-end web
+- 💻 Desenvolvedora iOS e Front-end web 
 - 🎓 Graduanda em Ciência da Computação (7/8)
 - 🎒 Alumni do Apple Developer Academy
-- 👩 Meus pronomes: Ela/Dela
+- 👩🏻‍💻 Mentora de código
+- 👩🏻‍🦱 Meus pronomes: Ela/Dela
 
 <br>
 
